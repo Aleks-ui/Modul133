@@ -75,4 +75,4 @@ Bei der Arbeit konnte ich mit den Codes zurecht kommen und wissen, welche Proper
 
 Grosse Probleme während dem Arbeiten gab es nicht. Es sei nur, dass ich herausfinden musste, wie man von RadioButtons, etc. die Daten weitergeben musste. Es war im Auftrag uns nur erklärt worden, wie man von einem commandLink-Bild die Daten weitergegeben werden sollten.
 
-**VBV**: Als Verbesserung habe ich nichts hinzuzufügen, da ich bereits die Leistung bestmöglich erbracht habe. Nächstes Mal vielleicht beim Auftrag noch die zusätzlichen Weitergabe-Tags spezifizieren bei ScrollDown-Listen, etc. ;)
+**VBV**: Als Verbesserung habe ich nichts hinzuzufügen, da ich bereits die Leistung sehr gut erbracht habe. Nächstes Mal vielleicht beim Auftrag noch die zusätzlichen Weitergabe-Tags spezifizieren bei ScrollDown-Listen, etc. ;)
